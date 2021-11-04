@@ -1,0 +1,2 @@
+/usr/bin/ar qc libREADER.a CMakeFiles/READER.dir/Reader/Reader.cpp.o
+/usr/bin/ranlib libREADER.a

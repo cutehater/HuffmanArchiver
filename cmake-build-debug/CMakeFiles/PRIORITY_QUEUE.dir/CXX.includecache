@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cutehater/CLionProjects/HuffmanArchiver/PriorityQueue/PriorityQueue.cpp
+PriorityQueue.h
+/home/cutehater/CLionProjects/HuffmanArchiver/PriorityQueue/PriorityQueue.h
+../Trie/Trie.h
+/home/cutehater/CLionProjects/HuffmanArchiver/Trie/Trie.h
+
+/home/cutehater/CLionProjects/HuffmanArchiver/PriorityQueue/PriorityQueue.h
+vector
+-
+
+/home/cutehater/CLionProjects/HuffmanArchiver/Trie/Trie.h
+vector
+-
+

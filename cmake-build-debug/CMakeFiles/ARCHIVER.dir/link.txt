@@ -1,0 +1,2 @@
+/usr/bin/ar qc libARCHIVER.a CMakeFiles/ARCHIVER.dir/Archiver/Archiver.cpp.o
+/usr/bin/ranlib libARCHIVER.a

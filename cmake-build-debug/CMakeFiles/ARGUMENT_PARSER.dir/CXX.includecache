@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cutehater/CLionProjects/HuffmanArchiver/ArgumentParser/ArgumentParser.cpp
+ArgumentParser.h
+/home/cutehater/CLionProjects/HuffmanArchiver/ArgumentParser/ArgumentParser.h
+
+/home/cutehater/CLionProjects/HuffmanArchiver/ArgumentParser/ArgumentParser.h
+vector
+-
+string_view
+-
+

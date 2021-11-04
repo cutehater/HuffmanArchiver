@@ -1,0 +1,2 @@
+/usr/bin/ar qc libTRIE.a CMakeFiles/TRIE.dir/Trie/Trie.cpp.o
+/usr/bin/ranlib libTRIE.a

@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/cutehater/CLionProjects/HuffmanArchiver/Reader/Reader.cpp
+Reader.h
+/home/cutehater/CLionProjects/HuffmanArchiver/Reader/Reader.h
+
+/home/cutehater/CLionProjects/HuffmanArchiver/Reader/Reader.h
+istream
+-
+
