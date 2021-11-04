@@ -1,2 +1,0 @@
-/usr/bin/ar qc libWRITER.a CMakeFiles/WRITER.dir/Writer/Writer.cpp.o
-/usr/bin/ranlib libWRITER.a

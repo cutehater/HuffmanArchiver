@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/archiver.dir/main.cpp.o CMakeFiles/archiver.dir/PriorityQueue/PriorityQueue.cpp.o -o archiver  libARCHIVER.a libARGUMENT_PARSER.a libEXTRACTOR.a libMESSENGER.a libPRIORITY_QUEUE.a libREADER.a libTRIE.a libWRITER.a 

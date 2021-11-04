@@ -1,1 +1,0 @@
-/usr/bin/c++ -g CMakeFiles/HuffmanArchiver.dir/main.cpp.o CMakeFiles/HuffmanArchiver.dir/PriorityQueue/PriorityQueue.cpp.o -o HuffmanArchiver  libARCHIVER.a libARGUMENT_PARSER.a libEXTRACTOR.a libMESSENGER.a libPRIORITY_QUEUE.a libREADER.a libTRIE.a libWRITER.a 
