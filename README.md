@@ -4,27 +4,18 @@ This is an archiver/extractor tool based on [Canonical Huffman coding](https://e
 It is written in C++ and uses custom priority queue to achieve better speed, also consuming quite small RAM amount.
 
 ## Installation
-1. Clone the repository:
+Download and run installer:
 
 ```bash
-$ git clone https://github.com/cutehater/HuffmanArchiver.git
+$ wget https://raw.githubusercontent.com/cutehater/HuffmanArchiver/main/installer.sh
+$ chmod +x installer.sh
+$ ./installer.sh
 ```
 
-2. Create build folder and open it: 
-
-```bash
-$ mkdir HuffmanArchiver/build
-$ cd HuffmanArchiver/build
-
-```
-3. Create executable file `archiver`: 
-
-```bash
-$ cmake ..
-$ make
-```
+After that, you can run archiver from `./HuffmanArchiver/build/`.
 
 ## Usage
+
 * Archive files `file1, file2, ...` and save to `archive_name`:
 
 ```bash
